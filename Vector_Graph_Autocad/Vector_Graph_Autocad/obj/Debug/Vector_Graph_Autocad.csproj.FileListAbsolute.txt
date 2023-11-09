@@ -1,0 +1,11 @@
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\bin\Debug\Vector_Graph_Autocad.dll
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\bin\Debug\Vector_Graph_Autocad.pdb
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\Vector_Graph_Autocad.csproj.AssemblyReference.cache
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\UserControl1.g.cs
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\Vector_Graph_Autocad_MarkupCompile.cache
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\Vector_Graph_Autocad_MarkupCompile.lref
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\UserControl1.baml
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\Vector_Graph_Autocad.g.resources
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\Vector_Graph_Autocad.csproj.CoreCompileInputs.cache
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\Vector_Graph_Autocad.dll
+C:\Users\eshil\Desktop\programavimas\C#projects\Vector_Graph_Autocad\Vector_Graph_Autocad\obj\Debug\Vector_Graph_Autocad.pdb
