@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Programavimas\C#Programos\AutocadCode\AutoCadCommands\bin\Debug\AutoCadCommands.dll
+C:\Users\PC\Desktop\Programavimas\C#Programos\AutocadCode\AutoCadCommands\bin\Debug\AutoCadCommands.pdb
+C:\Users\PC\Desktop\Programavimas\C#Programos\AutocadCode\AutoCadCommands\obj\Debug\AutoCadCommands.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Programavimas\C#Programos\AutocadCode\AutoCadCommands\obj\Debug\AutoCadCommands.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programavimas\C#Programos\AutocadCode\AutoCadCommands\obj\Debug\AutoCadCommands.dll
+C:\Users\PC\Desktop\Programavimas\C#Programos\AutocadCode\AutoCadCommands\obj\Debug\AutoCadCommands.pdb
